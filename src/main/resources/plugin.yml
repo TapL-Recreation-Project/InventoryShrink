@@ -1,0 +1,9 @@
+name: InventoryShrink
+version: ${project.version}
+main: me.swipez.inventoryshrink.InventoryShrink
+api-version: 1.16
+authors: [ notnotnotswipez ]
+commands:
+  inventoryshrink:
+    usage: /inventoryshrink <start/stop>
+    description: Starts and stops the inventory shrink challenge!
